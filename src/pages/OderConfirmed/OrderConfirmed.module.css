@@ -1,0 +1,14 @@
+.confirmed {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+.confirmed img {
+  height: 300px;
+}
+.confirmed h2 {
+  margin-top: 60px;
+}
+.confirmed p {
+  margin-top: 10px;
+}
